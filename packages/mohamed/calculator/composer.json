@@ -1,0 +1,12 @@
+{
+    "name": "mohamed/calculator",
+    "description": "This demo package will do some calculations",
+    "authors": [
+        {
+            "name": "Mohamed Kamal",
+            "email": "mohamed77zaki@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
